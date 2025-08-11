@@ -1,5 +1,5 @@
 {
-  "name": "section3",
+  "name": "section6",
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
@@ -11,6 +11,5 @@
   },
   "dependencies": {
     "@types/node": "^24.2.1"
-  },
-  "devDependencies": {}
+  }
 }
